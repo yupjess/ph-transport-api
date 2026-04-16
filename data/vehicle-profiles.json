@@ -1,0 +1,18 @@
+{
+  "motorcycle": {
+    "fuel_type": "ron91",
+    "efficiency": 30
+  },
+  "sedan": {
+    "fuel_type": "ron95",
+    "efficiency": 12
+  },
+  "auv_van": {
+    "fuel_type": "diesel",
+    "efficiency": 9
+  },
+  "suv": {
+    "fuel_type": "diesel",
+    "efficiency": 8
+  }
+}

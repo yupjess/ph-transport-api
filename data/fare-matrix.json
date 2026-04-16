@@ -1,0 +1,51 @@
+[
+  {
+    "type": "Traditional Jeepney",
+    "base_fare": 14.00,
+    "base_distance": 4,
+    "per_km": 2.00
+  },
+  {
+    "type": "Modern Jeepney",
+    "base_fare": 17.00,
+    "base_distance": 4,
+    "per_km": 2.40
+  },
+  {
+    "type": "Ordinary City Bus",
+    "base_fare": 15.00,
+    "base_distance": 5,
+    "per_km": 2.49
+  },
+  {
+    "type": "Aircon City Bus",
+    "base_fare": 18.00,
+    "base_distance": 5,
+    "per_km": 2.98
+  },
+  {
+    "type": "TNVS Sedan",
+    "base_fare": 65.00,
+    "pickup_fee": 15.00,
+    "per_km": 15.00
+  },
+  {
+    "type": "Provincial Bus (Aircon)",
+    "base_fare": 0,
+    "base_distance": 0,
+    "per_km": 0.35
+  },
+  {
+    "type": "P2P Bus",
+    "multiplier": 1.15,
+    "base_fare": 0,
+    "base_distance": 0,
+    "per_km": 0.35
+  },
+  {
+    "type": "Airport Taxi",
+    "base_fare": 115.00,
+    "base_distance": 0,
+    "per_km": 14.50
+  }
+]
